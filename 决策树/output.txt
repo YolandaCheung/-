@@ -1,0 +1,3 @@
+no. of Chris training emails: 7936
+no. of Sara training emails: 7884
+0.991467576792
