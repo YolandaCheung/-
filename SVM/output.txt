@@ -1,0 +1,25 @@
+线性：
+no. of Chris training emails: 7936
+no. of Sara training emails: 7884
+training time: 193.467 s
+0.984072810011
+
+较少训练集：
+no. of Chris training emails: 7936
+no. of Sara training emails: 7884
+training time: 1.133 s
+0.884527872582
+
+
+调整参数：
+no. of Chris training emails: 7936
+no. of Sara training emails: 7884
+training time: 1.007 s
+0.892491467577
+
+
+RBF最优：
+no. of Chris training emails: 7936
+no. of Sara training emails: 7884
+training time: 123.715 s
+0.990898748578
